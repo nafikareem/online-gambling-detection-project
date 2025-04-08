@@ -1,0 +1,9 @@
+# Ignore large model files
+models/indoBERT/*.pt
+models/indoBERT/*.safetensors
+
+# Ignore dataset files
+data/processed/cleaned_comments.csv
+
+# Ignore logs
+logs/
